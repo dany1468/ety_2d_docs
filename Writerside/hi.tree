@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Help Instance"
+                 start-page="oncollision_create_prefab_target_location.md">
+
+    <toc-element topic="list_of_scripts_of_unity2d_book.md"/>
+    <toc-element topic="create_clickable_button_in_ui.md"/>
+    <toc-element topic="oncollision_create_prefab_target_location.md"/>
+</instance-profile>

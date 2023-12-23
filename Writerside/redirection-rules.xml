@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="238cd1e1">
+        <description>Created after removal of "Unity2D超入門講座 スクリプト一覧表" from Help Instance</description>
+        <accepts>Unity2D超入門講座-スクリプト一覧表.html</accepts>
+    </rule>
+    <rule id="6e0877aa">
+        <description>Created after removal of "ステージ内のリトライボタンを作る" from Help Instance</description>
+        <accepts>create_retry_button_in_a_stage.html</accepts>
+    </rule>
+</rules>
